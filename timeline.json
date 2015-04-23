@@ -1,0 +1,40 @@
+{
+    "mensajes": [
+        {
+		    "autor": "Patricia González",
+			"avatar": "images/usuario1.jpeg",
+			"titulo": "Perfeccionismo",
+			"contenido": "Dando los últimos retoques a la práctica de DAT!",
+			"fecha": "15/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+        },
+        {
+			"autor": "Francisco Fernández",
+			"avatar": "images/usuario3.jpeg",
+			"titulo": "Impaciencia",
+			"contenido": "Ahora sólo queda esperar las notas",
+			"fecha": "14/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    },
+        {
+            "autor": "Patricia González",
+			"avatar": "images/usuario1.jpeg",
+			"titulo": "Estudiando",
+			"contenido": "Rodeada de libros y cafés",
+			"fecha": "14/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    },
+	    {
+			"autor": "Laura Sanz",
+			"avatar": "images/usuario2.jpeg",
+			"titulo": "Retos",
+			"contenido": "No pierdas un solo día sin acercarte a tu sueño",
+			"fecha": "13/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    }
+    ]
+}

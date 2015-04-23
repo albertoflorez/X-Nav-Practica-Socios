@@ -1,0 +1,40 @@
+{
+    "mensajes": [
+        {
+		    "autor": "Patricia González",
+			"avatar": "images/usuario1.jpeg",
+			"titulo": "Libre!",
+			"contenido": "Terminando la práctica de DAT!",
+			"fecha": "17/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+        },
+        {
+            "autor": "Patricia González",
+			"avatar": "images/usuario1.jpeg",
+			"titulo": "Orgullosa",
+			"contenido": "Me ha salido genial el examen de terminales!",
+			"fecha": "16/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    },
+	    {
+			"autor": "Ĺaura Sanz",
+			"avatar": "images/usuario2.jpeg",
+			"titulo": "Dejando riendo suelta a la imaginación",
+			"contenido": "Leyendo el último libro de mi escritor favorito",
+			"fecha": "16/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    },
+        {
+			"autor": "Francisco Fernández",
+			"avatar": "images/usuario3.jpeg",
+			"titulo": "Impaciencia",
+			"contenido": "Ahora sólo queda esperar las notas",
+			"fecha": "16/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    }
+    ]
+}

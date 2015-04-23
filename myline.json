@@ -1,0 +1,40 @@
+{
+    "mensajes": [
+        {
+			"autor": "Alberto Flórez",
+			"avatar": "images/fotoPerfil.jpg",
+			"titulo": "Lorem ipsum",
+			"contenido": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum cursus massa, sit amet bibendum arcu. Proin porttitor sem sem, vitae aliquam neque blandit sed. Donec ac dolor et elit consectetur placerat. Maecenas libero urna, malesuada ac quam in, auctor molestie risus. Nunc iaculis ultricies erat vel pharetra. Fusce varius nec velit a lobortis. Maecenas et risus quis urna imperdiet volutpat et eget libero. Nulla tempor ut sapien nec placerat. Etiam mattis posuere lacus in tempus. Sed nec eros sed nisl volutpat auctor vel vitae ligula.</p><p>Duis quam erat, lacinia in ultrices et, tristique vitae nibh. Curabitur eu accumsan nisl. Aenean sit amet nisi dolor. Pellentesque auctor bibendum felis, eu bibendum ligula blandit non. Vestibulum iaculis, velit a suscipit viverra, augue magna ornare augue, quis condimentum felis enim et lorem. Phasellus faucibus urna quis purus fermentum, ut imperdiet magna vehicula. Vivamus venenatis sit amet nisl et placerat. Etiam non turpis vitae turpis posuere semper vitae eu tortor. Donec fermentum feugiat ipsum, in scelerisque velit finibus a.</p>",
+			"fecha": "14/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    },
+        {
+            "autor": "Alberto Flórez",
+			"avatar": "images/fotoPerfil.jpg",
+			"titulo": "Consejo",
+			"contenido": "Una buena manera de hacer una página web: bootstrap",
+			"fecha": "13/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    },
+	    {
+			"autor": "Alberto Flórez",
+			"avatar": "images/fotoPerfil.jpg",
+			"titulo": "Estrés",
+			"contenido": "Con tantas cosas que hacer y tan poco tiempo",
+			"fecha": "12/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    },
+        {
+			"autor": "Alberto Flórez",
+			"avatar": "images/fotoPerfil.jpg",
+			"titulo": "Chiste",
+			"contenido": "Yo para adelgazar sigo la dieta de la manzana: me compré un Iphone 5S y ya no tengo para comer. ",
+			"fecha": "12/03/2015",
+			"coordenadas": "",
+			"anexos": ""
+	    }
+    ]
+}
